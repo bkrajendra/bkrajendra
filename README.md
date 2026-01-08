@@ -21,9 +21,9 @@
 
 ### **About me-**
 
-- 🔭 I’m currently working on AWS - EKS.
+- 🔭 I’m currently working on Agentic AI, NVIDIA NEMO Guardrails.
 
-- 🌱 Working on best practices with learning domain-driven development.
+- 🌱 Learning about Infrastructure as Code tools.
 
 - 📰 [Website](https://rajendrakhope.com)
 
